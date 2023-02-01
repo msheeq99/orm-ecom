@@ -7,6 +7,9 @@ This project was to create routes to send data to the back end and allow us to u
 ## Walk through video for GET 
 https://user-images.githubusercontent.com/113865888/216122567-ab817ac0-fa87-48dc-8983-637eb489f683.mp4
 
+## Walk through video for GET routes to return a single category, a single product, and a single tag
+
+
 ## Walk through video for POST, PUT & DELETE
 
 https://user-images.githubusercontent.com/113865888/216123138-776fe92c-06b1-4c82-82a7-036ef258ff76.mp4
